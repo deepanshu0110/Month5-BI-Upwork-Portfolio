@@ -26,6 +26,7 @@ and Upwork activation (first 5 bids in Week 4).
 
 ## Files
 
+- `Day86.pbix` (97 KB)
 - `Day86_AdvancedPowerBI_RLS_Bookmarks_DrillThrough.xlsx` (57 KB)
 
 ---
