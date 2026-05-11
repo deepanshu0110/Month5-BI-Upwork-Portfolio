@@ -26,7 +26,7 @@ and Upwork activation (first 5 bids in Week 4).
 
 ## Files
 
-- `README.md` (1 KB)
+_No files yet._
 
 ---
 

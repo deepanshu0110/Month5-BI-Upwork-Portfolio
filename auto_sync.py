@@ -19,7 +19,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 WATCH_FOLDER  = r"C:\Users\Deepanshu\OneDrive\Desktop\Month5"
-TRACKED_EXTS  = {".xlsx", ".pbix", ".twbx", ".ipynb", ".pdf", ".py", ".md"}
+TRACKED_EXTS  = {".xlsx", ".pbix", ".twbx", ".ipynb", ".pdf", ".py"}
 BRANCH        = "main"
 REMOTE        = "origin"
 DEBOUNCE_SECS = 2.0   # wait before committing (file must finish saving)
