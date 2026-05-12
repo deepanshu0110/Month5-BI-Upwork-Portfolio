@@ -33,6 +33,9 @@ and Upwork activation (first 5 bids in Week 4).
 - `Day87_AdvancedDAX_PowerBI.xlsx` (35 KB)
 - `Day88_AdvTableau_LOD_Sets_Params.xlsx` (38 KB)
 - `Day89_MiniProject.xlsx` (35 KB)
+- `Day90_Pipeline_Output.xlsx` (10 KB)
+- `Day90_SQL_Python_Pipeline.ipynb` (21 KB)
+- `Day90_SQL_Python_Pipeline.xlsx` (28 KB)
 
 ---
 
