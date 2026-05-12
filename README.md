@@ -28,6 +28,7 @@ and Upwork activation (first 5 bids in Week 4).
 
 - `Day 87.pbix` (65 KB)
 - `Day 89.pbix` (57 KB)
+- `Day 91.ipynb` (20 KB)
 - `Day86.pbix` (97 KB)
 - `Day86_AdvancedPowerBI_RLS_Bookmarks_DrillThrough.xlsx` (57 KB)
 - `Day87_AdvancedDAX_PowerBI.xlsx` (35 KB)
@@ -36,6 +37,7 @@ and Upwork activation (first 5 bids in Week 4).
 - `Day90_Pipeline_Output.xlsx` (10 KB)
 - `Day90_SQL_Python_Pipeline.ipynb` (22 KB)
 - `Day90_SQL_Python_Pipeline.xlsx` (28 KB)
+- `pbi_techmart.xlsx` (16 KB)
 
 ---
 
