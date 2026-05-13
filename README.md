@@ -38,6 +38,8 @@ and Upwork activation (first 5 bids in Week 4).
 - `Day90_SQL_Python_Pipeline.ipynb` (22 KB)
 - `Day90_SQL_Python_Pipeline.xlsx` (28 KB)
 - `Day91_Python_PBI_Tableau_Integration.xlsx` (32 KB)
+- `Day92_Pipeline.ipynb` (34 KB)
+- `TechMart_Report_Day92.xlsx` (10 KB)
 - `pbi_techmart.xlsx` (16 KB)
 
 ---
