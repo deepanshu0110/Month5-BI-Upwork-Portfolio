@@ -1,0 +1,151 @@
+order_id,date,region,category,product,quantity,unit_price,revenue,customer_segment
+ORD-9300,01-01-2024,West,Home & Kitchen,Pressure Cooker,5,2199,10995,Premium
+ORD-9301,03-01-2024,East,Sports,Skipping Rope,5,299,1495,New
+ORD-9302,05-01-2024,East,Electronics,Smart Watch,2,8999,17998,New
+ORD-9303,08-01-2024,North,Accessories,USB Cable,4,499,1996,Wholesale
+ORD-9304,10-01-2024,North,Electronics,Laptop,5,54999,274995,Returning
+ORD-9305,13-01-2024,North,Sports,Yoga Mat,2,899,1798,Returning
+ORD-9306,15-01-2024,North,Sports,Cricket Bat,3,1999,5997,Returning
+ORD-9307,18-01-2024,East,Accessories,Screen Guard,4,199,796,Wholesale
+ORD-9308,20-01-2024,South,Home & Kitchen,Mixer,5,3299,16495,Returning
+ORD-9309,23-01-2024,West,Accessories,Earphones,1,1299,1299,Wholesale
+ORD-9310,25-01-2024,South,Clothing,Jeans,3,1499,4497,Returning
+ORD-9311,27-01-2024,South,Accessories,Earphones,5,1299,6495,New
+ORD-9312,30-01-2024,West,Electronics,Tablet,4,24999,99996,Premium
+ORD-9313,01-02-2024,South,Electronics,Smart Watch,3,8999,26997,New
+ORD-9314,04-02-2024,East,Electronics,Smart Watch,1,8999,8999,New
+ORD-9315,06-02-2024,West,Accessories,Phone Cover,4,249,996,Returning
+ORD-9316,09-02-2024,North,Home & Kitchen,Pressure Cooker,2,2199,4398,New
+ORD-9317,11-02-2024,East,Sports,Yoga Mat,4,899,3596,New
+ORD-9318,14-02-2024,West,Home & Kitchen,Mixer,1,3299,3299,Premium
+ORD-9319,16-02-2024,West,Accessories,Screen Guard,1,199,199,Returning
+ORD-9320,18-02-2024,North,Accessories,Earphones,1,1299,1299,New
+ORD-9321,21-02-2024,West,Clothing,Jacket,4,2499,9996,New
+ORD-9322,23-02-2024,West,Electronics,Laptop,1,54999,54999,Returning
+ORD-9323,26-02-2024,South,Accessories,Screen Guard,2,199,398,Premium
+ORD-9324,28-02-2024,West,Home & Kitchen,Pressure Cooker,3,2199,6597,New
+ORD-9325,02-03-2024,South,Home & Kitchen,Mixer,5,3299,16495,Returning
+ORD-9326,04-03-2024,West,Sports,Running Shoes,1,3499,3499,Wholesale
+ORD-9327,07-03-2024,West,Clothing,Jacket,4,2499,9996,Premium
+ORD-9328,09-03-2024,North,Accessories,USB Cable,4,499,1996,Wholesale
+ORD-9329,12-03-2024,West,Home & Kitchen,Air Fryer,3,5999,17997,Returning
+ORD-9330,14-03-2024,East,Accessories,Phone Cover,2,249,498,Wholesale
+ORD-9331,16-03-2024,North,Home & Kitchen,Mixer,4,3299,13196,New
+ORD-9332,19-03-2024,East,Accessories,USB Cable,3,499,1497,Returning
+ORD-9333,21-03-2024,East,Sports,Yoga Mat,2,899,1798,New
+ORD-9334,24-03-2024,South,Electronics,Tablet,4,24999,99996,Wholesale
+ORD-9335,26-03-2024,South,Accessories,Phone Cover,5,249,1245,Premium
+ORD-9336,29-03-2024,West,Accessories,USB Cable,5,499,2495,New
+ORD-9337,31-03-2024,North,Electronics,Tablet,5,24999,124995,New
+ORD-9338,03-04-2024,North,Clothing,T-Shirt,2,599,1198,Returning
+ORD-9339,05-04-2024,East,Clothing,Jacket,4,2499,9996,Premium
+ORD-9340,07-04-2024,South,Sports,Skipping Rope,3,299,897,Returning
+ORD-9341,10-04-2024,East,Electronics,Smartphone,1,18999,18999,New
+ORD-9342,12-04-2024,South,Clothing,Kurta,3,899,2697,Returning
+ORD-9343,15-04-2024,West,Home & Kitchen,Pressure Cooker,5,2199,10995,New
+ORD-9344,17-04-2024,South,Sports,Skipping Rope,1,299,299,Returning
+ORD-9345,20-04-2024,South,Home & Kitchen,Water Bottle,5,399,1995,Wholesale
+ORD-9346,22-04-2024,South,Accessories,Earphones,1,1299,1299,New
+ORD-9347,25-04-2024,West,Home & Kitchen,Pressure Cooker,5,2199,10995,New
+ORD-9348,27-04-2024,East,Electronics,Tablet,2,24999,49998,Premium
+ORD-9349,30-04-2024,East,Clothing,Jeans,4,1499,5996,Returning
+ORD-9350,02-05-2024,South,Accessories,Screen Guard,4,199,796,Wholesale
+ORD-9351,04-05-2024,South,Electronics,Tablet,3,24999,74997,Returning
+ORD-9352,07-05-2024,West,Sports,Running Shoes,1,3499,3499,Premium
+ORD-9353,09-05-2024,East,Clothing,T-Shirt,3,599,1797,Wholesale
+ORD-9354,12-05-2024,South,Clothing,Kurta,5,899,4495,Wholesale
+ORD-9355,14-05-2024,West,Home & Kitchen,Air Fryer,5,5999,29995,Premium
+ORD-9356,17-05-2024,North,Home & Kitchen,Water Bottle,1,399,399,New
+ORD-9357,19-05-2024,East,Home & Kitchen,Pressure Cooker,3,2199,6597,New
+ORD-9358,22-05-2024,West,Electronics,Smartphone,3,18999,56997,New
+ORD-9359,24-05-2024,South,Clothing,Jacket,1,2499,2499,Premium
+ORD-9360,26-05-2024,South,Home & Kitchen,Mixer,4,3299,13196,Returning
+ORD-9361,29-05-2024,East,Electronics,Tablet,1,24999,24999,Premium
+ORD-9362,31-05-2024,North,Clothing,Jacket,1,2499,2499,Premium
+ORD-9363,03-06-2024,North,Clothing,Jacket,2,2499,4998,Wholesale
+ORD-9364,05-06-2024,West,Sports,Yoga Mat,4,899,3596,New
+ORD-9365,08-06-2024,South,Electronics,Smart Watch,4,8999,35996,New
+ORD-9366,10-06-2024,North,Clothing,T-Shirt,1,599,599,New
+ORD-9367,13-06-2024,North,Clothing,Jeans,2,1499,2998,Wholesale
+ORD-9368,15-06-2024,North,Sports,Running Shoes,5,3499,17495,Premium
+ORD-9369,18-06-2024,West,Accessories,USB Cable,5,499,2495,Returning
+ORD-9370,20-06-2024,South,Home & Kitchen,Mixer,3,3299,9897,Premium
+ORD-9371,22-06-2024,North,Home & Kitchen,Air Fryer,3,5999,17997,Returning
+ORD-9372,25-06-2024,West,Sports,Skipping Rope,4,299,1196,Wholesale
+ORD-9373,27-06-2024,South,Electronics,Smart Watch,1,8999,8999,Returning
+ORD-9374,30-06-2024,South,Electronics,Tablet,1,24999,24999,Premium
+ORD-9375,02-07-2024,West,Sports,Cricket Bat,3,1999,5997,Returning
+ORD-9376,05-07-2024,East,Clothing,T-Shirt,5,599,2995,Premium
+ORD-9377,07-07-2024,West,Clothing,Kurta,1,899,899,Wholesale
+ORD-9378,10-07-2024,East,Electronics,Smartphone,4,18999,75996,Wholesale
+ORD-9379,12-07-2024,West,Clothing,Jacket,5,2499,12495,New
+ORD-9380,14-07-2024,North,Home & Kitchen,Mixer,4,3299,13196,New
+ORD-9381,17-07-2024,East,Electronics,Smartphone,2,18999,37998,Wholesale
+ORD-9382,19-07-2024,East,Home & Kitchen,Air Fryer,1,5999,5999,Premium
+ORD-9383,22-07-2024,West,Accessories,Earphones,3,1299,3897,Wholesale
+ORD-9384,24-07-2024,South,Sports,Running Shoes,3,3499,10497,Premium
+ORD-9385,27-07-2024,West,Clothing,Jacket,1,2499,2499,Premium
+ORD-9386,29-07-2024,East,Accessories,USB Cable,5,499,2495,New
+ORD-9387,01-08-2024,North,Sports,Yoga Mat,5,899,4495,Wholesale
+ORD-9388,03-08-2024,North,Electronics,Tablet,5,24999,124995,Premium
+ORD-9389,06-08-2024,West,Electronics,Smartphone,4,18999,75996,Premium
+ORD-9390,08-08-2024,West,Home & Kitchen,Water Bottle,4,399,1596,Premium
+ORD-9391,10-08-2024,South,Accessories,Phone Cover,2,249,498,New
+ORD-9392,13-08-2024,North,Clothing,Kurta,1,899,899,New
+ORD-9393,15-08-2024,North,Electronics,Smart Watch,5,8999,44995,New
+ORD-9394,18-08-2024,East,Electronics,Smartphone,3,18999,56997,Returning
+ORD-9395,20-08-2024,West,Accessories,Phone Cover,2,249,498,Premium
+ORD-9396,23-08-2024,West,Electronics,Laptop,5,54999,274995,Wholesale
+ORD-9397,25-08-2024,North,Home & Kitchen,Water Bottle,5,399,1995,New
+ORD-9398,28-08-2024,North,Electronics,Smart Watch,2,8999,17998,New
+ORD-9399,30-08-2024,East,Sports,Running Shoes,4,3499,13996,Premium
+ORD-9400,01-09-2024,South,Electronics,Tablet,4,24999,99996,Returning
+ORD-9401,04-09-2024,North,Sports,Skipping Rope,1,299,299,New
+ORD-9402,06-09-2024,North,Sports,Cricket Bat,5,1999,9995,Wholesale
+ORD-9403,09-09-2024,West,Home & Kitchen,Air Fryer,3,5999,17997,New
+ORD-9404,11-09-2024,West,Sports,Cricket Bat,2,1999,3998,Returning
+ORD-9405,14-09-2024,West,Clothing,Kurta,3,899,2697,Returning
+ORD-9406,16-09-2024,West,Accessories,Screen Guard,4,199,796,Premium
+ORD-9407,19-09-2024,North,Clothing,Jeans,4,1499,5996,Wholesale
+ORD-9408,21-09-2024,East,Electronics,Smart Watch,2,8999,17998,New
+ORD-9409,24-09-2024,North,Electronics,Smartphone,3,18999,56997,Returning
+ORD-9410,26-09-2024,South,Electronics,Laptop,5,54999,274995,New
+ORD-9411,28-09-2024,South,Accessories,Phone Cover,4,249,996,Premium
+ORD-9412,01-10-2024,South,Sports,Running Shoes,1,3499,3499,Premium
+ORD-9413,03-10-2024,South,Clothing,Kurta,1,899,899,New
+ORD-9414,06-10-2024,West,Accessories,Screen Guard,4,199,796,Wholesale
+ORD-9415,08-10-2024,West,Sports,Cricket Bat,2,1999,3998,New
+ORD-9416,11-10-2024,South,Accessories,USB Cable,5,499,2495,Premium
+ORD-9417,13-10-2024,East,Electronics,Laptop,1,54999,54999,Premium
+ORD-9418,16-10-2024,East,Home & Kitchen,Pressure Cooker,1,2199,2199,Wholesale
+ORD-9419,18-10-2024,North,Home & Kitchen,Pressure Cooker,1,2199,2199,Returning
+ORD-9420,20-10-2024,South,Sports,Cricket Bat,4,1999,7996,New
+ORD-9421,23-10-2024,East,Accessories,USB Cable,1,499,499,Returning
+ORD-9422,25-10-2024,East,Clothing,Kurta,3,899,2697,Returning
+ORD-9423,28-10-2024,East,Home & Kitchen,Mixer,1,3299,3299,New
+ORD-9424,30-10-2024,North,Home & Kitchen,Water Bottle,3,399,1197,Premium
+ORD-9425,02-11-2024,North,Electronics,Smartphone,1,18999,18999,New
+ORD-9426,04-11-2024,West,Sports,Skipping Rope,5,299,1495,Premium
+ORD-9427,07-11-2024,East,Accessories,Phone Cover,4,249,996,Wholesale
+ORD-9428,09-11-2024,East,Electronics,Laptop,1,54999,54999,Returning
+ORD-9429,12-11-2024,East,Clothing,Jacket,5,2499,12495,Premium
+ORD-9430,14-11-2024,East,Home & Kitchen,Air Fryer,2,5999,11998,New
+ORD-9431,16-11-2024,West,Home & Kitchen,Water Bottle,2,399,798,Returning
+ORD-9432,19-11-2024,East,Home & Kitchen,Air Fryer,5,5999,29995,Returning
+ORD-9433,21-11-2024,South,Sports,Cricket Bat,2,1999,3998,New
+ORD-9434,24-11-2024,South,Home & Kitchen,Water Bottle,4,399,1596,Returning
+ORD-9435,26-11-2024,West,Sports,Skipping Rope,3,299,897,New
+ORD-9436,29-11-2024,West,Home & Kitchen,Air Fryer,4,5999,23996,Premium
+ORD-9437,01-12-2024,North,Sports,Running Shoes,5,3499,17495,Returning
+ORD-9438,04-12-2024,North,Electronics,Smartphone,2,18999,37998,New
+ORD-9439,06-12-2024,West,Electronics,Tablet,1,24999,24999,New
+ORD-9440,08-12-2024,South,Electronics,Smart Watch,5,8999,44995,New
+ORD-9441,11-12-2024,East,Electronics,Laptop,2,54999,109998,New
+ORD-9442,13-12-2024,South,Clothing,Jacket,1,2499,2499,Returning
+ORD-9443,16-12-2024,North,Home & Kitchen,Mixer,1,3299,3299,Wholesale
+ORD-9444,18-12-2024,West,Clothing,T-Shirt,4,599,2396,Premium
+ORD-9445,21-12-2024,North,Home & Kitchen,Water Bottle,4,399,1596,Returning
+ORD-9446,23-12-2024,North,Home & Kitchen,Mixer,4,3299,13196,Wholesale
+ORD-9447,26-12-2024,North,Home & Kitchen,Mixer,2,3299,6598,Premium
+ORD-9448,28-12-2024,East,Electronics,Laptop,5,54999,274995,Returning
+ORD-9449,31-12-2024,North,Clothing,T-Shirt,4,599,2396,Returning
