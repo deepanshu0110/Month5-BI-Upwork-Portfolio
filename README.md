@@ -42,6 +42,7 @@ and Upwork activation (first 5 bids in Week 4).
 - `Day92_Pipeline.ipynb` (34 KB)
 - `Day93_Streamlit_Dashboard.ipynb` (36 KB)
 - `Day93_dashboard.py` (5 KB)
+- `Day94_Upwork_Activation.xlsx` (26 KB)
 - `TechMart_Report_Day92.xlsx` (10 KB)
 - `pbi_techmart.xlsx` (16 KB)
 
