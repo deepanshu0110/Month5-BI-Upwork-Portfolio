@@ -17,10 +17,10 @@ and Upwork activation (first 5 bids in Week 4).
 
 | Week | Focus | Status |
 |------|-------|--------|
-| Week 1 | Advanced Power BI (RLS, Bookmarks, Drill-through) | ⏳ |
-| Week 2 | Advanced Tableau (LOD, Parameters, Storytelling) | ⏳ |
-| Week 3 | End-to-end pipeline: SQL → Python EDA → BI Dashboard | ⏳ |
-| Week 4 | Upwork activation — first 5 proposals sent | ⏳ |
+| Week 1 | Advanced Power BI (RLS, Bookmarks, Drill-through) | Done |
+| Week 2 | Advanced Tableau (LOD, Parameters, Storytelling) | Done |
+| Week 3 | End-to-end pipeline: SQL → Python EDA → BI Dashboard | Done |
+| Week 4 | Upwork activation — first 5 proposals sent | Done |
 
 ---
 
