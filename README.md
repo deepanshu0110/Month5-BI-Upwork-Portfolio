@@ -26,9 +26,12 @@ and Upwork activation (first 5 bids in Week 4).
 
 ## Files
 
+- `Day 100 Capstone.ipynb` (179 KB)
+- `Day 100.pbix` (53 KB)
 - `Day 87.pbix` (65 KB)
 - `Day 89.pbix` (57 KB)
 - `Day 91.ipynb` (20 KB)
+- `Day100_Month5_Capstone.xlsx` (29 KB)
 - `Day86.pbix` (97 KB)
 - `Day86_AdvancedPowerBI_RLS_Bookmarks_DrillThrough.xlsx` (57 KB)
 - `Day87_AdvancedDAX_PowerBI.xlsx` (35 KB)
