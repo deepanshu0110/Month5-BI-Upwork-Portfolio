@@ -2,7 +2,7 @@
 
 **Author:** Deepanshu Garg | [deepanshu0110](https://github.com/deepanshu0110)
 
-Part of a structured 12-month Data Analytics + Data Science program.
+Part of a structured 13-month Data Analytics + Data Science program.
 Month 5 covers advanced Power BI, advanced Tableau, end-to-end analytics pipelines,
 and Upwork activation (first 5 bids in Week 4).
 
